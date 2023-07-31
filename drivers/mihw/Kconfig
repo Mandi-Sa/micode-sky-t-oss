@@ -1,0 +1,6 @@
+config GAEA
+	tristate "low end scheduler"
+	depends on GAEA_WALT
+	help
+	  low end scheduler
+
